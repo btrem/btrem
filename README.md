@@ -3,7 +3,7 @@ At the moment, I'm
 * just picked up Jinja2
 * started creating simple SVG icons
 * playing with new CSS stuff (really digging CSS variables)
-* actively looking for work.
+* actively looking for work
 
 When I'm not learning new web dev tricks, I'm in my urban
 garden tending to herbs, tomatoes, radishes, kohlrabi, and
