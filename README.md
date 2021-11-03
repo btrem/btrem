@@ -13,7 +13,7 @@ At the moment, I'm
     - overflow word wrapping
 
 When I'm not learning new web dev tricks -- or working as a
-server/bartender at my day job (ok, more often night job!)
+server/bartender at my day job (ok, more often night job!) --
 I'm in my kitchen fermenting stuff.
 Mostly vegetable ferments, but I occasionally attempt cider
 and meade.
